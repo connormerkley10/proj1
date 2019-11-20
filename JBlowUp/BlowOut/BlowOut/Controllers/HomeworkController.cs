@@ -43,7 +43,7 @@ namespace BlowOut.Controllers
 
         public ActionResult EditHomework(int tCode)
         {
-            //ViewBag.Classs = ClasssController.ClasssList;
+            ViewBag.Classs = ClasssController.ClasssList;
             Homework oHomework = HomeworkList.Find(x => x.Homework_Code == tCode);
             return View(oHomework);
         }
