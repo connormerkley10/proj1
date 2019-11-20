@@ -1,0 +1,43 @@
+﻿@model IEnumerable<BlowOut.Models.Classs>
+
+@{
+    ViewBag.Title = "ShowClasses";
+}
+
+<h2>Classes</h2>
+
+<p>
+    @Html.ActionLink("Add Class", "AddClasses")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Class_Code)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Class_Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Class_Description)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Class_Code)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Class_Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Class_Description)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "EditClasses", new { tCode = item.Class_Code })
+        </td>
+    </tr>
+}
+
+</table>

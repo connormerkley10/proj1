@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Blow Out!";
+}
+<link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+
+<div class="jumbotron">
+        
+        <h1>Welcome IS Students</h1>
+        <p class="lead">We'll help organize your homework</p>
+    
+        <div class="focus">
+            <img src="~/Content/Images/student.jpg" class="col-lg-12" />
+        </div>
+    
+        <div class="text-center text-capitalize">
+            <p> Be more in the core</p>
+            <a href="https://resume.elijah-a-allen-eaa.com" class="btn btn-primary btn-lg">Learn more &raquo;</a>
+        </div>
+</div>
+
+        <div class="row">
+            <div class="col-md-4">
+                <h2>Add Homework</h2>
+                <p>
+                    Don't even know where to start on your homework? Add homework and we'll help break it down for you.
+                </p>
+                                                                 <!--- method   , controller-->
+                <a class=" btn btn-default" href="@Url.Action("ShowHomework", "Homework")"> See Homework &raquo;</a> 
+               
+
+
+            </div>
+            <div class="col-md-4">
+                <h2>Add your classes</h2>
+                <p>Add your Classes to help sort out which homework goes with which class</p>
+                <a class=" btn btn-default" href="@Url.Action("ShowClasses", "Classs")"> Show classes &raquo;</a>
+            </div>
+            <div class="col-md-4">
+                <h2>Learning Suite</h2>
+                <p>Forgot what Homework you need to do? Check out Learning Suite to get you back on track!</p>
+                <a class="btn btn-primary" href="https://learningsuite.byu.edu/.oI6W/student/top">Learning Suite &raquo;</a>
+            </div>
+        </div>

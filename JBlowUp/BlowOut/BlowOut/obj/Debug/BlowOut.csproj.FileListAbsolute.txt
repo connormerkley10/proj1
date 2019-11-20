@@ -1,0 +1,304 @@
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\BlowOut.dll.config
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\BlowOut.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\BlowOut.pdb
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\csc.exe
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\csc.exe.config
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\csc.rsp
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\csi.exe
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\csi.exe.config
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\csi.rsp
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.AppContext.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.Console.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.IO.Compression.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.IO.Pipes.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.Security.Claims.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.ValueTuple.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.Xml.XPath.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\vbc.exe
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\vbc.exe.config
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\vbc.rsp
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\VBCSCompiler.exe
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\Antlr3.Runtime.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\Newtonsoft.Json.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\System.Web.Helpers.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\System.Web.Mvc.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\System.Web.Optimization.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\System.Web.Razor.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\System.Web.WebPages.Deployment.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\System.Web.WebPages.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\System.Web.WebPages.Razor.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\WebGrease.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\System.Web.Helpers.xml
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\System.Web.Mvc.xml
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\System.Web.Optimization.xml
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\System.Web.Razor.xml
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\System.Web.WebPages.xml
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\System.Web.WebPages.Deployment.xml
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\System.Web.WebPages.Razor.xml
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\Newtonsoft.Json.xml
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\Antlr3.Runtime.pdb
+C:\Users\boyce\source\repos\BlowOut\BlowOut\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\boyce\source\repos\BlowOut\BlowOut\obj\Debug\BlowOut.csprojAssemblyReference.cache
+C:\Users\boyce\source\repos\BlowOut\BlowOut\obj\Debug\BlowOut.csproj.CoreCompileInputs.cache
+C:\Users\boyce\source\repos\BlowOut\BlowOut\obj\Debug\BlowOut.csproj.CopyComplete
+C:\Users\boyce\source\repos\BlowOut\BlowOut\obj\Debug\BlowOut.dll
+C:\Users\boyce\source\repos\BlowOut\BlowOut\obj\Debug\BlowOut.pdb
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\BlowOut.dll.config
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\BlowOut.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\BlowOut.pdb
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\csc.exe
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\csc.exe.config
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\csc.rsp
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\csi.exe
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\csi.exe.config
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\csi.rsp
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.AppContext.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Console.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.IO.Compression.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Security.Claims.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.ValueTuple.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\vbc.exe
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\vbc.exe.config
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\vbc.rsp
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\VBCSCompiler.exe
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\Antlr3.Runtime.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\Newtonsoft.Json.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.Helpers.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.Mvc.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.Optimization.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.Razor.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.WebPages.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.WebPages.Razor.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\WebGrease.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.Helpers.xml
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.Mvc.xml
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.Optimization.xml
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.Razor.xml
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.WebPages.xml
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.WebPages.Razor.xml
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\Newtonsoft.Json.xml
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\Antlr3.Runtime.pdb
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\obj\Debug\BlowOut.csprojAssemblyReference.cache
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\obj\Debug\BlowOut.csproj.CoreCompileInputs.cache
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\obj\Debug\BlowOut.csproj.CopyComplete
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\obj\Debug\BlowOut.dll
+C:\Users\Elijah Allen\source\repos\Project1\BlowOut\BlowOut\obj\Debug\BlowOut.pdb
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\BlowOut.dll.config
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\BlowOut.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\BlowOut.pdb
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\csc.exe
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\csc.exe.config
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\csc.rsp
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\csi.exe
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\csi.exe.config
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\csi.rsp
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.AppContext.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Console.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.IO.Compression.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.IO.Pipes.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Security.Claims.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.ValueTuple.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Xml.XPath.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\vbc.exe
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\vbc.exe.config
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\vbc.rsp
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\VBCSCompiler.exe
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\Antlr3.Runtime.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\Newtonsoft.Json.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.Helpers.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.Mvc.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.Optimization.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.Razor.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.WebPages.Deployment.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.WebPages.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.WebPages.Razor.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\WebGrease.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.Helpers.xml
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.Mvc.xml
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.Optimization.xml
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.Razor.xml
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.WebPages.xml
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.WebPages.Deployment.xml
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\System.Web.WebPages.Razor.xml
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\Newtonsoft.Json.xml
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\Antlr3.Runtime.pdb
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\obj\Debug\BlowOut.csprojAssemblyReference.cache
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\obj\Debug\BlowOut.csproj.CoreCompileInputs.cache
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\obj\Debug\BlowOut.csproj.CopyComplete
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\obj\Debug\BlowOut.dll
+C:\Users\boyce\source\repos\Project1\BlowOut\BlowOut\obj\Debug\BlowOut.pdb
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\BlowOut.dll.config
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\BlowOut.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\BlowOut.pdb
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\csc.exe
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\csc.exe.config
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\csc.rsp
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\csi.exe
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\csi.exe.config
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\csi.rsp
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.AppContext.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.Console.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.IO.Compression.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.Security.Claims.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.ValueTuple.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\vbc.exe
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\vbc.exe.config
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\vbc.rsp
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\VBCSCompiler.exe
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\Antlr3.Runtime.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\Newtonsoft.Json.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\System.Web.Helpers.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\System.Web.Mvc.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\System.Web.Optimization.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\System.Web.Razor.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\System.Web.WebPages.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\System.Web.WebPages.Razor.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\WebGrease.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\System.Web.Helpers.xml
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\System.Web.Mvc.xml
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\System.Web.Optimization.xml
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\System.Web.Razor.xml
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\System.Web.WebPages.xml
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\System.Web.WebPages.Razor.xml
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\Newtonsoft.Json.xml
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\Antlr3.Runtime.pdb
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\obj\Debug\BlowOut.csprojAssemblyReference.cache
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\obj\Debug\BlowOut.csproj.CoreCompileInputs.cache
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\obj\Debug\BlowOut.csproj.CopyComplete
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\obj\Debug\BlowOut.dll
+C:\Users\Connor Merkley\Downloads\JBlowUp\BlowOut\BlowOut\obj\Debug\BlowOut.pdb

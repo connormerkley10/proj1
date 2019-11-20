@@ -1,0 +1,53 @@
+﻿@model IEnumerable<BlowOut.Models.Homework>
+
+@{
+    ViewBag.Title = "ShowHomework";
+}
+
+<h2>Homework To Do</h2>
+<div class=" jumbotron">
+    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FDenver&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%2330487E" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+    <asp:Calender ID="Calendar1" runat="server" SelectionMode="DayWeekMonth">
+    </asp:Calender>
+</div>
+<p>
+    @Html.ActionLink("Add Homework Assignment", "AddHomework")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Homework_Code)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Homework_Desc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Class_Code)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DueDate)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Homework_Code)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Homework_Desc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Class_Code)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DueDate)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "EditHomework", new { tCode=item.Homework_Code }) 
+        </td>
+    </tr>
+}
+
+</table>
