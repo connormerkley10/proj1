@@ -31,7 +31,7 @@ namespace BlowOut.Controllers
             {
                 myHomework.Homework_Code = HomeworkList.Count() + 1;
                 HomeworkList.Add(myHomework);
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction("ShowHomework");
 
             }
 

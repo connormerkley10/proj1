@@ -11,13 +11,14 @@ namespace BlowOut.Controllers
     {
         public static List<Classs> ClasssList = new List<Classs>();
         // GET: Classs
+        /*
         public ActionResult Index()
         {
             return View();
-        }
+        }*/
      
 
-        // GET: Teachers
+       
         public ActionResult ShowClasses()
         {
             return View(ClasssList);
@@ -36,7 +37,7 @@ namespace BlowOut.Controllers
             {
                 myClass.Class_Code = ClasssList.Count() + 1;
                 ClasssList.Add(myClass);
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction("ShowClasses");
 
             }
             else
