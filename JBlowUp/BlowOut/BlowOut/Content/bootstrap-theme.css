@@ -19,6 +19,12 @@
     margin-right: auto;
     width: 89%;
 }
+
+.centered
+{
+    display:flex;
+    font-display:unset;
+}
 .btn-default:active,
 .btn-primary:active,
 .btn-success:active,

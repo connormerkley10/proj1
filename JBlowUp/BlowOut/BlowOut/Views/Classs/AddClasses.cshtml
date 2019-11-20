@@ -4,7 +4,7 @@
     ViewBag.Title = "AddClasses";
 }
 
-<h2>AddClasses</h2>
+<h2>Add Classes</h2>
 
 
 @using (Html.BeginForm()) 
@@ -12,7 +12,6 @@
     @Html.AntiForgeryToken()
     
     <div class="form-horizontal">
-        <h4>Classs</h4>
         <hr />
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
       
@@ -42,7 +41,7 @@
 }
 
 <div>
-    @Html.ActionLink("Back to List", "Index")
+    @Html.ActionLink("Back to List", "ShowClasses")
 </div>
 
 @section Scripts {

@@ -28,9 +28,9 @@ namespace BlowOut.Controllers
         public ActionResult AddHomework(Homework myHomework)
         {
             if (ModelState.IsValid)
-            { 
-                HomeworkList.Add(myHomework);
+            {
                 myHomework.Homework_Code = HomeworkList.Count() + 1;
+                HomeworkList.Add(myHomework);
                 return RedirectToAction("Index", "Home");
 
             }
@@ -43,8 +43,8 @@ namespace BlowOut.Controllers
 
         public ActionResult EditHomework(int tCode)
         {
-            ViewBag.Classs = ClasssController.ClasssList;
-            Homework oHomework = HomeworkList.Find(x => x.Class_Code == tCode);
+            //ViewBag.Classs = ClasssController.ClasssList;
+            Homework oHomework = HomeworkList.Find(x => x.Homework_Code == tCode);
             return View(oHomework);
         }
 
@@ -54,7 +54,7 @@ namespace BlowOut.Controllers
         public ActionResult EditHomework(Homework myModel)
         {
             var obj = HomeworkList.FirstOrDefault(x =>
-            x.Class_Code == myModel.Homework_Code);
+            x.Homework_Code == myModel.Homework_Code);
 
             if (obj != null)
             {

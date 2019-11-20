@@ -34,8 +34,8 @@ namespace BlowOut.Controllers
         {
             if (ModelState.IsValid)
             {
-                ClasssList.Add(myClass);
                 myClass.Class_Code = ClasssList.Count() + 1;
+                ClasssList.Add(myClass);
                 return RedirectToAction("Index", "Home");
 
             }
@@ -63,6 +63,7 @@ namespace BlowOut.Controllers
             if (obj != null)
             {
                 obj.Class_Title = myModel.Class_Title;
+                obj.Class_Description = myModel.Class_Description;
             }
             return View("ShowClasses", ClasssList);
         }
